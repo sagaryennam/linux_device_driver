@@ -1,0 +1,1 @@
+savedcmd_Module.symvers :=  /usr/src/linux-headers-7.0.0-1006-aws/scripts/mod/modpost -M -m -b -x -a      -o Module.symvers -n -T modules.order -i /usr/src/linux-headers-7.0.0-1006-aws/Module.symvers -e 
